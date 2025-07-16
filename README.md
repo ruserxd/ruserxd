@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m studying in Taiwan Feng Chia University🌱 I’m currently learning Java springboot, React <br>💬 Want to be a Software Engineer
+🔭 I’m studying in Taiwan Feng Chia University<br>🌱 I’m currently learning Java springboot, React <br>💬 Want to be a Software Engineer
 
 
 ## 🌐 Socials:
