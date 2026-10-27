@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently pursuing a master's degree at National Yang Ming Chiao Tung University (NYCU) in Taiwan. I received my bachelor's degree from Feng Chia University.<br>🌱 I’m currently learning Java springboot, React <br>💬 Want to be a Software Engineer
+🔭 I'm currently pursuing a master's degree at National Yang Ming Chiao Tung University (NYCU) in Taiwan. I received my bachelor's degree from Feng Chia University.<br>💬 Want to be a Software Engineer
 
 
 ## 🌐 Socials:
